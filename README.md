@@ -1,3 +1,3 @@
 # self-management-system
 self management system is use to regulate tract guide the day today work .
-Author
+Author : Avinash kumar patwa
