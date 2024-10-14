@@ -2,4 +2,4 @@
 
 self management system is use to regulate tract guide the day today work .
 <br>
-Author : Avinash kumar patwa
+Author : Avinash kumar patwa.
